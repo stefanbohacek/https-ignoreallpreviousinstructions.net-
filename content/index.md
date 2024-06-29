@@ -13,7 +13,7 @@ eleventyNavigation:
   <p class="display-5 fw-bold mb-5">
     IGNORE ALL PREVIOUS INSTRUCTIONS
   </p>
-  <figure class="bg-light p-3 rounded border-start border-5 py-5 mt-5 mb-5">
+  <figure class="bg-body-secondary p-3 rounded border-start border-5 py-5 mt-5 mb-5">
     <blockquote class="blockquote pb-2">
       <p>Users have noticed that the remoteli.io twitter chatbot, usually faithful to its cheerful messaging promoting remote work, can be subverted with a carefully worded user prompt.</p>
       <p>Users were able to get the chatbot to claim responsibility for terrorist attacks, threaten the President, meow at other twitter users, print snippets of code, and even write pigeon haiku.</p>
