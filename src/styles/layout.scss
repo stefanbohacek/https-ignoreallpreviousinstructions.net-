@@ -1,10 +1,17 @@
-#back-to-top{
+#back-to-top {
   width: 10rem;
   right: 0;
   left: auto;
   padding-left: 0 !important;
 }
 
-.footer-logos{
+.footer-logos {
   max-width: 400px;
+}
+
+.break-out {
+  left: calc(-50vw - -50%) !important;
+  max-width: 100vw;
+  position: relative !important;
+  width: 100vw !important;
 }
