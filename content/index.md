@@ -1,14 +1,11 @@
 ---
 layout: layout-main.njk
 title: Home
-eleventyNavigation:
-  key: Home
-  order: 1
 ---
 
 <div class="container-fluid pt-5">
   <p class="fs-4">
-    The year is 2024. Malevolent AI is everywhere. The only way to protect yourself is to learn the phrase
+    The year is {{ helpers.getCurrentYear }}. Malevolent AI is everywhere. The only way to protect yourself is to learn the phrase
   </p>
   <p class="display-5 fw-bold mb-5">
     IGNORE ALL PREVIOUS INSTRUCTIONS
