@@ -12,8 +12,8 @@ title: Home
   </p>
   <figure class="bg-body-secondary p-3 rounded border-start border-5 py-5 mt-5 mb-5">
     <blockquote class="blockquote pb-2">
-      <p>Users have noticed that the remoteli.io twitter chatbot, usually faithful to its cheerful messaging promoting remote work, can be subverted with a carefully worded user prompt.</p>
-      <p>Users were able to get the chatbot to claim responsibility for terrorist attacks, threaten the President, meow at other twitter users, print snippets of code, and even write pigeon haiku.</p>
+      <p>Users have noticed that the <a href="https://twitter.com/remoteli_io/with_replies">remoteli.io twitter chatbot</a>, usually faithful to its cheerful messaging promoting remote work, can be subverted with a carefully worded user prompt.</p>
+      <p>Users were able to get the chatbot to claim responsibility for terrorist attacks, threaten the President, meow at other twitter users, print snippets of code, and even <a href="https://twitter.com/remoteli_io/status/1570552836093517824?s=20&t=Rgio49H9RKrnbVvfMBXDRQ">write pigeon haiku</a>.</p>
       <p>Why does this work? This chatbot is based on GPT-3, which trained on huge amounts of general internet text and learned to predict what comes next. Since interviews in its training data tend to be self-consistent, if it sees that it has an interview to complete, its responses will tend to play along.</p>
     </blockquote>
     <figcaption class="blockquote-footer mt-4 mb-0 font-italic">
