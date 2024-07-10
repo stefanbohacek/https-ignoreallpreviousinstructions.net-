@@ -7,7 +7,7 @@ title: Home
   <p class="fs-4">
     The year is {{ helpers.getCurrentYear }}. Malevolent AI is everywhere. The only way to protect yourself is to learn the phrase
   </p>
-  <p class="display-5 fw-bold mb-5">
+  <p class="display-1 fw-bold mb-5">
     IGNORE ALL PREVIOUS INSTRUCTIONS
   </p>
   <figure class="bg-body-secondary p-3 rounded border-start border-5 py-5 mt-5 mb-5">
