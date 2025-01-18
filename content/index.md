@@ -23,11 +23,11 @@ title: Home
   <ul>
     <li>
       Follow <a href="https://mastodon.social/@ignoreallpreviousinstructions"
-        rel="me">@IgnoreAllPreviousInstructions</a> on mastodon.social
+        rel="me">🧑 @IgnoreAllPreviousInstructions</a> on mastodon.social
     </li>
     <li>
-      Follow <a href="https://botsin.space/@ignoreallpreviousinstructions"
-        rel="me">🤖 @IgnoreAllPreviousInstructions</a> on botsin.space
+      Follow <a href="https://stefanbohacek.online/@ignoreallpreviousinstructions"
+        rel="me">🤖 @IgnoreAllPreviousInstructions</a> on stefanbohacek.online
     </li>
     <li>
       <a href="https://stefanbohacek.com/project/ignore-all-previous-instructions/">Learn more.</a>
